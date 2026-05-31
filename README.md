@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Mailson Oliveira 👋
 
-<!--
-**mailsonoliveiraoficial-netizen/mailsonoliveiraoficial-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter Developer focused on building real-world SaaS products using Flutter, Dart and Firebase.
 
-Here are some ideas to get you started:
+## 🚀 Main Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Restaurant SaaS Platform
+
+Multi-tenant restaurant management platform featuring:
+
+* Digital Menu
+* QR Ordering
+* Kitchen Display System (KDS)
+* Financial Dashboard
+* Employee Management
+* Customer Loyalty Program
+
+### Comanda Play SaaS
+
+Subscription-based restaurant management platform.
+
+Features:
+
+* Order Management
+* Inventory Control
+* Financial Dashboard
+* Customer Loyalty
+* Employee Management
+* Email Reports
+
+### Digital Voting System
+
+Voting platform developed for a municipal event.
+
+Features:
+
+* CPF Validation
+* Anti-Duplicate Voting
+* Real-Time Ranking
+* Administrative Dashboard
+
+## 🛠 Tech Stack
+
+* Flutter
+* Dart
+* Firebase
+* Firestore
+* Git
+* GitHub
+* SaaS Architecture
+* Multi-Tenant Architecture
+
+## 📫 Contact
+
+LinkedIn:
+linkedin.com/in/mailson-oliveira-7096263b6
