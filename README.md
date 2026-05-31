@@ -1,4 +1,4 @@
-# Hi, I'm Mailson Oliveira 👋
+# Mailson Oliveira 👋
 
 Flutter Developer focused on building real-world SaaS products using Flutter, Dart and Firebase.
 
