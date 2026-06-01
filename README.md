@@ -57,6 +57,7 @@ Features:
 * Multi-Tenant Architecture
 
 ## 📫 Contact
+WhatsApp: 67 9 8133-4950
 
 LinkedIn:
-linkedin.com/in/mailson-oliveira-7096263b6
+www.linkedin.com/in/mailsondevflutter
