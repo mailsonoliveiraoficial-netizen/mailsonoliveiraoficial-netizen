@@ -30,6 +30,8 @@ Features:
 * Employee Management
 * Email Reports
 
+![Comanda Play](assets/dashboard.jpeg)
+
 ### Digital Voting System
 
 Voting platform developed for a municipal event.
@@ -40,6 +42,8 @@ Features:
 * Anti-Duplicate Voting
 * Real-Time Ranking
 * Administrative Dashboard
+
+* ![Sistema de Votação](assets/resultado.jepg)
 
 ## 🛠 Tech Stack
 
