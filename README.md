@@ -43,7 +43,7 @@ Features:
 * Real-Time Ranking
 * Administrative Dashboard
 
-* ![Sistema de Votação](assets/resultado.jepg)
+* ![Sistema de Votação](assets/resultado.jpeg)
 
 ## 🛠 Tech Stack
 
