@@ -15,6 +15,8 @@ Multi-tenant restaurant management platform featuring:
 * Employee Management
 * Customer Loyalty Program
 
+* ![Restaurant SaaS](assets/restaurant_saas.jpeg)
+
 ### Comanda Play SaaS
 
 Subscription-based restaurant management platform.
