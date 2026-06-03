@@ -17,6 +17,8 @@ Multi-tenant restaurant management platform featuring:
 
 * ![Restaurant SaaS](assets/restaurant_saas.png)
 
+*🔗 https://github.com/mailsonoliveiraoficial-netizen/restaurant-saas-platform
+
 ### Comanda Play SaaS
 
 Subscription-based restaurant management platform.
@@ -32,6 +34,8 @@ Features:
 
 ![Comanda Play](assets/dashboard.jpeg)
 
+🔗 https://github.com/mailsonoliveiraoficial-netizen/comanda-play-saas
+
 ### Digital Voting System
 
 Voting platform developed for a municipal event.
@@ -44,6 +48,8 @@ Features:
 * Administrative Dashboard
 
 * ![Sistema de Votação](assets/resultado.jpeg)
+
+* 🔗 https://github.com/mailsonoliveiraoficial-netizen/digital-voting-system
 
 ## 🛠 Tech Stack
 
